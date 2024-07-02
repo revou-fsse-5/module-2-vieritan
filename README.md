@@ -15,4 +15,4 @@
 
 ### untuk linknya
 
-https://revou-fsse-5.github.io/module-2-vieritan/
+https://revou-fsse-5.github.io/module-1-vieritan/
