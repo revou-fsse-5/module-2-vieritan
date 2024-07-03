@@ -106,4 +106,4 @@
 
 ### untuk linknya
 
-https://revou-fsse-5.github.io/module-2-vieritan/
+https://tugasrevou.online/
